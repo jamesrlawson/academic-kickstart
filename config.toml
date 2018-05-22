@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "Macquarie University", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "james_2017.png"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "JRL.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "james.lawson@mq.edu.au"
   address = "Building E8B Room 322, Macquarie University, NSW 2109, Australia"
   phone = ""
