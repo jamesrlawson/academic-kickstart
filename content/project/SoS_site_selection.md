@@ -28,6 +28,8 @@ highlight = true
 #image = "Haematopus_longirostris_Austins_Ferry.jpg"
 #caption = "Pied Oystercatcher - *Haematopus longirostris*"
 
+# Order that this section will appear in.
+weight = 1
 +++
 
 I am currently (as of 17/05/2018) working on a decision support tool for NSW Office of Environment & Heritage's Saving our Species (SoS) program. This tool evaluates the coverage in environmental space of existing SoS threatened species management sites, and suggests optimal locations for additional sites. This approach is known as *environmental gap analysis*, and is central to ensuring that threatened species in NSW have the capacity to adapt to future environmental conditions. The tool is written in [R Shiny](https://shiny.rstudio.com/) in collaboration with [Dr. Daisy Duursma](https://github.com/daisyduursma/). 

@@ -1,6 +1,6 @@
 +++
 title = "Macquarie Uni R Users Group"
-date = 2018-05-07T13:41:01+10:00
+date = 2018-03-07
 draft = false
 
 # Tags: can be used for filtering projects.
@@ -28,5 +28,7 @@ highlight = true
 #image = "RUG.jpg"
 #caption = "aRgh - ask an R geek for help!"
 
+# Order that this section will appear in.
+weight = 3
 +++
 
